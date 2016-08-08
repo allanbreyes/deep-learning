@@ -2,3 +2,8 @@
 *.pyc
 venv/
 *large.tar.gz
+*small.tar.gz
+*large/
+*small/
+
+*.pickle
